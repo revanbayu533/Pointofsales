@@ -1,7 +1,9 @@
 {
   "name": "react-vite-tailwind",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Point of Sale System with Next.js and MySQL",
+
   "type": "module",
   "scripts": {
     "dev": "next dev",
